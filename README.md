@@ -1,8 +1,8 @@
 ### Hi, I'm Simmy 👋
 
-Digital PM with engineering roots. Currently founding-PM at a stealth startup and prototyping agentic systems for my own daily workflow. INSEAD MBA '25, based in Paris, U.S. citizen.
+Digital PM with engineering roots. Currently founding-PM at a stealth startup and prototyping agentic systems for my own daily workflow. INSEAD MBA 2025.
 
-This profile is a working portfolio of small, real systems I've shipped to myself — the kind of tooling I build to keep my hands in the code while operating as a PM. Every project here runs in active personal use; nothing is a tutorial clone.
+This profile is a working portfolio of small systems I've shipped to myself — the kind of tooling I build to keep my hands in the code while operating as a PM. Every project here runs in active personal use.
 
 ---
 
@@ -18,7 +18,7 @@ This profile is a working portfolio of small, real systems I've shipped to mysel
 
 ### 🧪 Currently exploring
 
-Agentic AI patterns, MCP servers, and the design space of personal tooling that compounds — systems that change my behavior, not just store my data. Strong opinions on cost-disciplined LLM use (small models, tight prompts, deterministic fallbacks).
+Agentic AI patterns, MCP servers, and the design space of personal tooling — systems that change my behavior via cost-disciplined LLM use (small models, tight prompts, deterministic fallbacks).
 
 ---
 
@@ -27,4 +27,4 @@ Agentic AI patterns, MCP servers, and the design space of personal tooling that 
 - LinkedIn — [linkedin.com/in/simmyhundal](https://linkedin.com/in/simmyhundal)
 - Email — simmy.hundal [at] insead.edu
 
-*Off-keyboard: strategy board games — Ark Nova, Scythe, and Terra Mystica are current favorites.*
+*Strategy board games are a hobby — Ark Nova, Scythe, and Terra Mystica are current favorites.*

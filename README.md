@@ -1,8 +1,8 @@
 ### Hi, I'm Simmy 👋
 
-Digital PM with engineering roots. Currently founding-PM at a stealth startup and prototyping agentic systems for my own daily workflow. INSEAD MBA 2025.
+Digital PM with engineering roots. Most recent role: Founding PM at [[Axone](https://axone.live/)] and prototyping agentic systems for my own daily workflow. INSEAD MBA 2025.
 
-This profile is a working portfolio of small systems I've shipped to myself — the kind of tooling I build to keep my hands in the code while operating as a PM. Every project here runs in active personal use.
+This profile is a working portfolio of small systems, including those I've shipped to myself — the kind of tooling I build to keep my hands in the code while operating as a PM. 
 
 ---
 

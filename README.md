@@ -2,8 +2,6 @@
 
 Product manager and former data engineer. I build products where money moves: billing, payments and personal finance. Most recently Founding PM at [Axone](https://axone.live/), pay-over-time plans for UK dental clinics: £4M in plans originated, Stripe and Bacs Direct Debit, automatic reconciliation into clinic systems. INSEAD MBA 2025, Dean's List.
 
-I prototype with AI coding agents to keep my hands in the code. Everything below I designed and built in 2026.
-
 ---
 
 ### 💸 Money movement
@@ -14,7 +12,7 @@ I prototype with AI coding agents to keep my hands in the code. Everything below
 
 **[smart-splitwise](https://github.com/simmyhundal/smart-splitwise)**: A chat-based group expense tracker (n8n + Claude). A no-LLM fast path answers balance questions in about 2 seconds.
 
-### 🛡 Billing integrity with AI agents
+### 🛡 Insurer billing integrity with AI agents
 
 **[em-upcoding-agent](https://github.com/simmyhundal/em-upcoding-agent)**: Finds improper medical billing in synthetic insurance claims. A fixed workflow and an AI agent are built side by side and scored in net dollars: recovery minus staff cost minus friction with providers. The agent reaches 59% of the best possible score on ten held-out test seeds.
 
@@ -28,13 +26,4 @@ I prototype with AI coding agents to keep my hands in the code. Everything below
 
 ---
 
-### How I build
-
-Evaluation first: each agent gets a dollar score, a baseline it must beat and a held-out test set. Deterministic fallbacks keep it working when the model doesn't.
-
-### 📫 Reach me
-
-- LinkedIn: [linkedin.com/in/simmyhundal](https://linkedin.com/in/simmyhundal)
-- Email: simmyhundal [at] gmail.com
-
-*Strategy board games are a hobby. Ark Nova, Scythe and Terra Mystica are current favorites.*
+*Strategy board games: Ark Nova, Scythe and Viticulture are current favorites.*

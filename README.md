@@ -6,7 +6,7 @@ Product manager and former data engineer. I build products where money moves: bi
 
 ### 💸 Money movement
 
-**[fenixquotes.com](https://fenixquotes.com/)**: D2C instant insurance quotes for real estate investors. React quote flow, with prices from a rating table mined from past quotes. Live since November 2026.
+**[fenixquotes.com](https://fenixquotes.com/)**: D2C instant insurance quotes for real estate investors. React quote flow, with prices from a rating table mined from past quotes. 
 
 **[ur-family-office-site](https://github.com/simmyhundal/ur-family-office-site)**: A personal finance product. It imports brokerage files, compares cash-flow returns with a benchmark and shows them in a React dashboard. [Demo](https://simmyhundal.github.io/ur-family-office-site/plus-demo/) uses an invented household.
 

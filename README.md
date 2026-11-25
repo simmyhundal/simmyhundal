@@ -1,30 +1,40 @@
 ### Hi, I'm Simmy 👋
 
-Digital PM with engineering roots. Most recent role: Founding PM at [Axone](https://axone.live/), a fintech for healthcare providers, and prototyping agentic systems. INSEAD MBA 2025, Dean's List.
+Product manager and former data engineer. I build products where money moves: billing, payments and personal finance. Most recently Founding PM at [Axone](https://axone.live/), pay-over-time plans for UK dental clinics: £4M in plans originated, Stripe and Bacs Direct Debit, automatic reconciliation into clinic systems. INSEAD MBA 2025, Dean's List.
 
-This profile is a working portfolio of small systems, including those I've shipped to myself — the kind of tooling I build to keep my hands in the code while operating as a PM. 
-
----
-
-### 🛠 Featured projects
-
-**[career-coach-GAS](https://github.com/simmyhundal/career-coach-GAS)** — Agentic daily planning system that bridges Google Calendar with a monthly OKR sheet, asks Gemini to pick 2–4 tasks fitted to the day's largest focus block, and emails a curated plan by 8 AM. Lifted my own OKR completion from **31.82% → 55.5%** the month after launch and held there the following month. Includes a deterministic bin-packing fallback so the email still ships if the LLM is unavailable.
-
-**[my-outlook-mcp](https://github.com/simmyhundal/my-outlook-mcp)** — A local MCP server that gives Claude Desktop read access to Outlook for Mac.
-
-**[PracticeInterview](https://github.com/simmyhundal/PracticeInterview)** — An MVP web app for realistic AI mock interviews powered by Gemini, with hidden per-question evaluation and automatic Airtable logging.
+I prototype with AI coding agents to keep my hands in the code. Everything below I designed and built in 2026.
 
 ---
 
-### 🧪 Currently exploring
+### 💸 Money movement
 
-Agentic AI patterns, MCP servers, and the design space of personal tooling — systems that change my behavior via cost-disciplined LLM use (small models, tight prompts, deterministic fallbacks).
+**[fenixquotes.com](https://fenixquotes.com/)**: D2C instant insurance quotes for real estate investors. React quote flow, with prices from a rating table mined from past quotes. Live since November 2026.
+
+**[ur-family-office-site](https://github.com/simmyhundal/ur-family-office-site)**: A personal finance product. It imports brokerage files, compares cash-flow returns with a benchmark and shows them in a React dashboard. [Demo](https://simmyhundal.github.io/ur-family-office-site/plus-demo/) uses an invented household.
+
+**[smart-splitwise](https://github.com/simmyhundal/smart-splitwise)**: A chat-based group expense tracker (n8n + Claude). A no-LLM fast path answers balance questions in about 2 seconds.
+
+### 🛡 Billing integrity with AI agents
+
+**[em-upcoding-agent](https://github.com/simmyhundal/em-upcoding-agent)**: Finds improper medical billing in synthetic insurance claims. A fixed workflow and an AI agent are built side by side and scored in net dollars: recovery minus staff cost minus friction with providers. The agent reaches 59% of the best possible score on ten held-out test seeds.
+
+**[em-prepay-agent](https://github.com/simmyhundal/em-prepay-agent)**: The prepay sibling. It decides to pay, hold or pay a lower amount on each claim before money leaves. It beat a tuned claim rule by $5.7K per seed on fresh test seeds.
+
+### 🧰 Personal tooling
+
+**[career-coach-GAS](https://github.com/simmyhundal/career-coach-GAS)**: Gemini picks 2–4 OKR tasks that fit the biggest gap in my calendar and emails the plan by 8 AM. My OKR completion went from 31.82% to 55.5% the month after launch (one user: me).
+
+**[my-outlook-mcp](https://github.com/simmyhundal/my-outlook-mcp)**: A local MCP server that gives Claude read access to Outlook for Mac.
 
 ---
+
+### How I build
+
+Evaluation first: each agent gets a dollar score, a baseline it must beat and a held-out test set. Deterministic fallbacks keep it working when the model doesn't.
 
 ### 📫 Reach me
 
-- LinkedIn — [linkedin.com/in/simmyhundal](https://linkedin.com/in/simmyhundal)
-- Email — simmy.hundal [at] insead.edu
+- LinkedIn: [linkedin.com/in/simmyhundal](https://linkedin.com/in/simmyhundal)
+- Email: simmyhundal [at] gmail.com
 
-*Strategy board games are a hobby — Ark Nova, Scythe, and Terra Mystica are current favorites.*
+*Strategy board games are a hobby. Ark Nova, Scythe and Terra Mystica are current favorites.*
